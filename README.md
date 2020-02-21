@@ -1,3 +1,10 @@
+## Setting up credentials
+
+Copy `.pgpass` in `/credentials` to home directory. Change its permission to `-rw-------` using the following command in terminal:
+
+`chmod 0600 .pgpass`
+
+
 # Deep Quant
 
 #### [by Euclidean Technologies, LLC](http://www.euclidean.com)
